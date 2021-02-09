@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735769882560",
+    "firebase_url": "https://ubi-red.firebaseio.com",
+    "project_id": "ubi-red",
+    "storage_bucket": "ubi-red.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735769882560:android:83764f3f2e445d82b46225",
+        "android_client_info": {
+          "package_name": "com.bitran.ubired"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735769882560-o5miicpfidj8umhnvnpvricg22s2108c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVbhsW3O-5bTJqgNU5GokVZs3LsgyzF-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735769882560-o5miicpfidj8umhnvnpvricg22s2108c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
